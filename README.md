@@ -6,7 +6,7 @@
 
 ## Descrição do projeto
 
-- É um projeto para clinicas de odontológicas com o objetivo de ser um vitrine para clinica mostrando os principais serviços que são ofertados. 
+- É um projeto para clinicas odontológicas com o objetivo de ser um vitrine para clinica mostrando os principais serviços que são ofertados. 
 
 ## Funcionalidades do projeto
 
