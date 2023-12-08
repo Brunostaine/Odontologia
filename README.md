@@ -1,4 +1,4 @@
-<h1 align="center"> Landing Page Psicologia</h1>
+<h1 align="center"> Landing Page Odontologia</h1>
 
 ![Badge em Desenvolvimento](https://img.shields.io/static/v1?label=STATUS&message=EM_ANDAMENTO&color=blue&style=for-the-badge)
   
