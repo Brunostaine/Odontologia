@@ -1,12 +1,12 @@
 ::-webkit-scrollbar {
   background: #1d1d1d;
-  width: 16px;
+  width: 8px;
 }
 
 ::-webkit-scrollbar-thumb {
-  background: #a58ba7;
+  background: #14e0e4;
   border-radius: 5px;
-  border: 3px solid #1d1d1d;
+  border: 2px solid #1d1d1d;
 }
 
 ::-webkit-scrollbar-thumb:hover {
@@ -15,10 +15,10 @@
 
 /* Cor do "thumb" enquanto arrasta */
 ::-webkit-scrollbar-thumb:active {
-  background-color: #b5749c;
+  background-color: #009b9d;
 }
 
 ::-webkit-scrollbar-scroll {
-  padding: 8px !important;
-  margin: 8px !important;
+  padding: 4px !important;
+  margin: 4px !important;
 }
