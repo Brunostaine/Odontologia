@@ -43,7 +43,9 @@
 
 @media (min-width: 400px) {
   .bloco-imagem img {
-    max-width: 200px;
+    max-width: 160px;
+    bottom: 220px;
+    right: 16px;
   }
 }
 
