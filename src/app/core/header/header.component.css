@@ -19,10 +19,18 @@
 }
 
 .header-contain h1 {
-  color: #fff;
-  font-size: 1.5rem;
-  font-weight: 500;
-  font-family: "Roboto", sans-serif;
-  margin-left: 16px;
-  text-transform: capitalize;
+  display: none;
+}
+
+@media (min-width: 480px) {
+
+  .header-contain h1 {
+    display: flex;
+    color: #fff;
+    font-size: 1.5rem;
+    font-weight: 500;
+    font-family: "Roboto", sans-serif;
+    margin-left: 16px;
+    text-transform: capitalize;
+  }
 }
